@@ -2,6 +2,9 @@
 My reading journal for Code Fellows 102n65
 
 ## About Me
+My name is Nick Mullaney, I'm a chef and worked in high end foodservice for 17 years, most notably a Chef at **Google**.
+My wife and I have 2 cats and quite frequently this is the state of my brain.
+
 ![duck-waddling](https://user-images.githubusercontent.com/21025934/192425030-eb3df1ab-a471-413c-8ab5-47c76429fa91.gif)
 
 
