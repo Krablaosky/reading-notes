@@ -21,3 +21,4 @@ When we are stuck there are a few helpful reminders for staying in that mindset.
 - [ ] ***The most important thing*** is to remember that you are not alone. Everyone is going through this with you. :tada:
 
 Link to my [GitHub:](https://nickmullaney.github.io/reading-notes/).
+
