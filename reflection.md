@@ -1,5 +1,7 @@
 ---
-title: Reflection
+title: Reflection Page
+layout: template
+filename: reflection.md
 --- 
 
 
