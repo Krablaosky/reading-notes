@@ -26,4 +26,4 @@ When we are stuck there are a few helpful reminders for staying in that mindset.
 
 Link to my [GitHub:](https://nickmullaney.github.io/reading-notes/).
 
-Read more on my take about using Github Pages [HERE](docs/reflection.md)
+Read more on my take about using Github Pages [HERE](reflection.md)
