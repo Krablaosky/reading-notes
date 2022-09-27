@@ -4,7 +4,7 @@ My reading journal for Code Fellows 102n65
 ## Growth Mindset and what it Means
 
 - A growth Mindset is the ability to believe **that you _can_ change**
-- It is also
+- It is also looking at challenges as opportunities
 - And finally
 
 ### 3 Reminders to stay in a Growth Mindset
