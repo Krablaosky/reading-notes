@@ -1,3 +1,10 @@
+---
+title: Reflection
+layout: template
+filename: reflection.md
+--- 
+
+
 # A Reflection on Github Markdown
 
 Learning about ho to use *Github Markdown* is surprisingly easier than you would think.
