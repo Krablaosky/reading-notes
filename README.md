@@ -15,4 +15,4 @@ A growth Mindset is the ability to believe **that you _can_ change**. This comes
 - [ ] *The second thing*
 - [ ] ***The most important thing*** :tada:
 
-Link to my GitHub:
+Link to my [GitHub:](https://nickmullaney.github.io/reading-notes/).
