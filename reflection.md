@@ -16,9 +16,15 @@ A series of different symbols builds the style and brings it to life.
 
 
 This image below is pretty **exciting** 
-We can insert this by using '![image-name](url)' 
+We can insert this by using and "!" followed by "[Image-Name]" and then inserting the (url).
+Pretty simple but exciting!
+
 ![duck-waddling](https://user-images.githubusercontent.com/21025934/192434708-dd8e3c94-07cd-4a80-8a7c-830c3a5284e1.gif)
 
+*To make it short and sweet we can also just drag the image to **Github** and it will take care of the rest*
 
 ## Key Takeaways for Github Markdown
-1. Make good use of the different *styles* to really **Emphasize** what you want to
+1. You wanna make a simple website quick
+2. You want someone else to host it for you, for **Free**
+3. You want to stylize it in a way you can type up in less than 20 minutes.
+
