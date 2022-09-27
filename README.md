@@ -1,6 +1,8 @@
 # My Reading Journal
 My reading journal for Code Fellows 102n65
 
+[about page](about.md)
+
 ## About Me
 ![nick](https://user-images.githubusercontent.com/21025934/192430857-a9ff4140-450f-485a-8641-3800be603a3f.jpg)
 
