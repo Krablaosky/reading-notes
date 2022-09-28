@@ -2,25 +2,21 @@
 
 Command  | What it Does | Usage 
 -------- | ------------ | ---------
-dir      | Content Cell
-chdir    | Content Cell
-md |  |
-mkdir |  | 
-rm |  |
-rmdir |  |
-copy |  | 
-move |  |
-ren |  |
-rename |  |
-del |  |
-exit |  |
-echo |  |
-type |  |
-fc |  |
-cls |  |
-clear |  |
-ls |  |
-ls -l |  |
-pwd |  |
-cd |  |
-touch |  |
+dir      | Displays a list of a folder’s files and subfolders | dir (shows current folder) dir myfolder
+cd/chdir    | Displays the name of the current directory or changes the current folder | cd filepath, chdir filepath, cd .. (goes one directory up)
+md/mkdir | Creates a folder (directory) | md folder-name, mkdir folder-name
+rm/rmdir | Deletes a folder (directory) | rm folder-name, rmdir folder-name, rm /s folder-name, rmdir /s folder-name, Note: if the folder isn’t empty, you must add the /s.
+copy | Copies a file from one location to another | copy filepath-from filepath-to
+move | Moves file from one folder to another | move folder1\file.txt folder2\
+ren/rename | Changes the name of a file | ren file1 file2
+del | Deletes one or more files | del filename
+exit | Exits batch script or current command control | exit
+echo | Used to display a message or to turn off/on messages in batch scrip | echo message
+type | Displays contents of a text file | type myfile.txt
+fc | Compares two files and displays the difference between them | fc file1 file2
+cls/clear | Clears the screen | cls
+ls | Makes a location list | lis
+ls -l | Makes a location list with detailed information | ls -l
+pwd | Tells you your location | pwd C:\Windows\System32
+touch | Creates a new file | touch newfile.md
+help | Provides more details about DOS/Command Prompt commands | help (lists all commands), help command
