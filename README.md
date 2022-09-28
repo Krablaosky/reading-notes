@@ -29,3 +29,5 @@ Link to my [GitHub:](https://github.com/nickmullaney).
 Read more on my take about using Github Pages [HERE](reflection.md)
 
 I have some thoughts and opinions on different text editors. You can find out what I think [HERE](texteditor.md)
+
+I have also compiled a Cheat Sheet for operating the Terminal [HERE](terminalCheatSheet.md)
