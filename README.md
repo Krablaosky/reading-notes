@@ -24,6 +24,6 @@ When we are stuck there are a few helpful reminders for staying in that mindset.
 - [ ] *The second thing* Is that this is not forever. You will be able to look back and recognize how much progress you've made.
 - [ ] ***The most important thing*** is to remember that you are not alone. Everyone is going through this with you. :tada:
 
-Link to my [GitHub:](https://nickmullaney.github.io/reading-notes/).
+Link to my [GitHub:](https://github.com/nickmullaney).
 
 Read more on my take about using Github Pages [HERE](reflection.md)
