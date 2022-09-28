@@ -31,3 +31,12 @@ Choosing a text editor is like choosing a car to drive. They all get you from A 
 
 #### And my personal favorite **VS Code**
 ![VS Cosde](https://user-images.githubusercontent.com/21025934/192676396-ff3081ff-aa88-4472-8e30-3f89af6797ec.png)
+
+
+Each of these individual ones has a different style to them and I personally love **VS Code**. It's extremely customizable and allows for so many wonderful features.
+* Code Completion- This features to be able to save you time with writing code. It will fill out closing brackets for you or anticipate what you are trying to do and give you suggestions.
+* Syntax Highlighting- This feature shows you when something looks amiss with your code. It will offer suggestions on how to fix it and make it better, because most of coding is about learning how to find the solution, not memorizing it.
+* Theme customization- This feature allows you to make your text editor yours, you can choose a different theme from light or dark mode to even get into the choice of different highlight colors and color pallete you want to use.
+* Extensions- The number of extensions will help make working of many different projects a breeze with highly specialized extensions for different coding languages and features.
+
+Having a good text editor will be crucial to coding easily and effectively, which one is right for you is a choice you have to make.
