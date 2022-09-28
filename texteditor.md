@@ -1,4 +1,4 @@
-# My views on **Text Editors**
+# My Views on **Text Editors**
 
 ## What is a Text Editor?
 
