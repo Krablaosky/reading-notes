@@ -14,9 +14,13 @@ exit | Exits batch script or current command control | exit
 echo | Used to display a message or to turn off/on messages in batch scrip | echo message
 type | Displays contents of a text file | type myfile.txt
 fc | Compares two files and displays the difference between them | fc file1 file2
+file | used to find a specific file | file [nick.png]
 cls/clear | Clears the screen | cls
-ls | Makes a location list | lis
+ls | Makes a location list | ls [options], [location]
 ls -l | Makes a location list with detailed information | ls -l
 pwd | Tells you your location | pwd C:\Windows\System32
 touch | Creates a new file | touch newfile.md
+~(Tilde) | shortcut for your home directory | ~/Documents
+.(dot) | reference to your current directory | ./Documents
+..(dotdot) | reference to the parent directory | ../../ and this would do a listing of the root directory.
 help | Provides more details about DOS/Command Prompt commands | help (lists all commands), help command
