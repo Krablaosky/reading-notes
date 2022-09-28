@@ -27,3 +27,5 @@ When we are stuck there are a few helpful reminders for staying in that mindset.
 Link to my [GitHub:](https://github.com/nickmullaney).
 
 Read more on my take about using Github Pages [HERE](reflection.md)
+
+I have some thoughts and opinions on different text editors. You can find out what I think [HERE](texteditor.md)
