@@ -5,4 +5,4 @@ filename: about.md
 
 # About me to come...
 
-There will be more coming soon
+This page is still under construction
