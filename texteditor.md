@@ -7,6 +7,9 @@ You can use it for a variety of things and have probably used one today. Things 
 You can also write code in a text editor. Would you really want to do that though? Someone might be interested in the no frills version of a text editor.
 Let's be real though, we are living in an incredibly advanced time and things like text editors for coding have evolved.
 
+You can always use things like the **Terminal** on your computer to access a variety of different and in depth tools to manage and operate your computer with extreme customization. The ability to dig into your computer and learn how it works is easily accomplished with the **Terminal**
+I have put together a **[Cheat Sheet]()** to help you in your journey to understand your computer better and learn how to use the terminal.
+
 There are a lot of third party options that create beautiful text editors that have a lot of advanced features to make Coding easy. 
 Choosing a text editor is like choosing a car to drive. They all get you from A to B but some people want to have their car drive them offroad and some people want their car to be more gas efficient. Some people like to drive Ferrari's and honestly they all get you where you are going. 
 
@@ -40,3 +43,5 @@ Each of these individual ones has a different style to them and I personally lov
 * Extensions- The number of extensions will help make working of many different projects a breeze with highly specialized extensions for different coding languages and features.
 
 Having a good text editor will be crucial to coding easily and effectively, which one is right for you is a choice you have to make.
+
+
