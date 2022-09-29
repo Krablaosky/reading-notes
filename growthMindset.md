@@ -8,4 +8,5 @@ When we are stuck there are a few helpful reminders for staying in that mindset.
 #### 3 Reminders to stay in a Growth Mindset
 - [ ] *The first thing* is that you are going to be *bad* at this, it's your first time doing this, cut yourself some slack.
 - [ ] *The second thing* Is that this is not forever. You will be able to look back and recognize how much progress you've made.
-- [ ] ***The most important thing*** is to remember that you are not alone. Everyone is going through this with you. :tada:
+- [ ] ***The most important thing*** is to remember that you are not alone. Everyone is going through this with you.
+![](../../../../../../mnt/c/Users/lordu/AppData/Local/Programs/Microsoft%20VS%20Code/c:/Nick/CodeFellows/images/Growing.png)
