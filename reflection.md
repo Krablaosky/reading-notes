@@ -17,7 +17,7 @@ I would reccomend following the below order for getting started.
 
 #### For Instance
 All of the above text has been formatted using *Markdown*
-A series of different symbols builds the style and brings it to life.
+A series of different symbols builds the style and brings it to life. There are so many cool ways to customize it and make it your own.
 
 
 This image below is pretty **exciting** 
