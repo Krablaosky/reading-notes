@@ -2,7 +2,7 @@
 My reading journal for Code Fellows 102n65
 
 # Table of Contents
-* [About Page](about.md) 
+* [About Me](about.md) 
 * [Growth Mindset](growth.Mindset.md)
 * [Reflection On GitHub Markdown](reflection.md)
 * [Terminal Cheat Sheet](terminalCheatSheet.md)
