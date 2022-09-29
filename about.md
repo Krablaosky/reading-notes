@@ -3,8 +3,12 @@ title: ABOUT PAGE
 filename: about.md
 --- 
 
-# About me to come...
+## About Me
+![nick](https://user-images.githubusercontent.com/21025934/192430857-a9ff4140-450f-485a-8641-3800be603a3f.jpg)
 
-This page is still under construction
+My name is Nick Mullaney, I'm a chef and worked in high end foodservice for 17 years, most notably a Chef at **Google**.
+My wife and I have 2 cats and I am engaged in a neverending list of hobbies and nerddoms. Quite frequently this is the state of my brain.
 
-I was originally in Culinary for 17 years, starting back on the east coast. I worked for high end corporate foodservice for the last decade and most notably at Google as a Chef.
+![duck-waddling](https://user-images.githubusercontent.com/21025934/192425030-eb3df1ab-a471-413c-8ab5-47c76429fa91.gif)
+
+
