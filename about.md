@@ -7,6 +7,4 @@ filename: about.md
 
 This page is still under construction
 
-Don't worry it'll be good.
-
-
+I was originally in Culinary for 17 years, starting back on the east coast. I worked for high end corporate foodservice for the last decade and most notably at Google as a Chef.
