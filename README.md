@@ -7,6 +7,6 @@ My reading journal for Code Fellows 102n65
 * [Reflection On GitHub Markdown](reflection.md)
 * [Terminal Cheat Sheet](terminalCheatSheet.md)
 * [Reflections on Text Editors](texteditor.md)
-* [Reading Thoughts and Reflections](readingThoughts.md)
+* [Reflections on Git & GitHub](readingThoughts.md)
 
 Link to my [GitHub:](https://github.com/nickmullaney).
