@@ -4,7 +4,7 @@ Command  | What it Does | Usage
 -------- | ------------ | ---------
 dir      | Displays a list of a folder’s files and subfolders | dir (shows current folder) dir myfolder
 cd/chdir    | Displays the name of the current directory or changes the current folder | cd filepath, chdir filepath, cd .. (goes one directory up)
-md/mkdir | Creates a folder (directory) | md folder-name, mkdir folder-name
+md/mkdir | Creates a folder (directory) | md folder-name<dr> mkdir folder-name
 rm/rmdir | Deletes a folder (directory) | rm folder-name, rmdir folder-name, rm /s folder-name, rmdir /s folder-name, Note: if the folder isn’t empty, you must add the /s.
 copy | Copies a file from one location to another | copy filepath-from filepath-to
 move | Moves file from one folder to another | move folder1\file.txt folder2\
