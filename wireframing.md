@@ -62,6 +62,9 @@ After we have all that, then we revise it after the first draw.
 
 Once we have that then we are ready to take it online!
 
+<img width="720" alt="low-fidelity-wireframes-web" src="https://user-images.githubusercontent.com/21025934/193368336-8d5ea9af-0d37-426b-b904-97d2b7376204.png">
+
+
 Online Wireframing Editors:
 
 * [wireframecc](https://wireframe.cc/)
@@ -74,7 +77,7 @@ Here is a [List of free tools to use](https://careerfoundry.com/en/blog/ux-desig
 
 Remember to choose what platform you are doing it for? Desktop? Mobile?
 
-Add in your shapes then recreate your sketch. for instance Crossed lines represent an image, use a circle for the logo.
+Add in your shapes then recreate your sketch. for instance Crossed lines represent an , use a circle for the logo.
 
 Rectangle for email login field
 
@@ -94,7 +97,8 @@ They can include text appearance enhancements, adding images, size adjustments e
 
 Make sure to use proper tags to get the effect you want. This `<p>` tag build the line as a paragraph
 
-Image here
+![grumpy-cat-small](https://user-images.githubusercontent.com/21025934/193368268-3ad69a2b-bf91-4b5a-86d1-cb10f3ad8361.png)
+
 
 Take a look at this image. The opening tag `<p>` is what helps establish what we are going to do. We put the name of the element we are using in angle brackets. This is us saying "I want it formatted this way"
 
