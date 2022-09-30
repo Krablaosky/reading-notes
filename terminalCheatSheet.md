@@ -16,7 +16,7 @@ type | Displays contents of a text file | type myfile.txt
 fc | Compares two files and displays the difference between them | fc file1 file2
 file | used to find a specific file | file [nick.png]
 cls<br>clear | Clears the screen | cls
-ls | Makes a location list | ls [options], [location]
+ls | Makes a location list | ls [options] [location]
 ls -l | Makes a location list with detailed information | ls -l
 pwd | Tells you your location | pwd C:\Windows\System32
 touch | Creates a new file | touch newfile.md
