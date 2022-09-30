@@ -11,5 +11,6 @@ My reading journal for Code Fellows 102n65
 * [Reflections on Text Editors](texteditor.md)
 * [Reflections on Git & GitHub](gitVsGithub.md)
 * [Wireframing & HTML](wireframing.md)
+* [HTML](html.md)
 
 Link to my [GitHub:](https://github.com/nickmullaney).
