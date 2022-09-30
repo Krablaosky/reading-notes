@@ -34,14 +34,14 @@ Take a look at this example
 `<p>My cat is <strong>very</strong> grumpy.</p>`
 Gives us
 
-<p>My cat is <strong>very</strong> grumpy.
+* <p>My cat is <strong>very</strong> grumpy.</p>
 
 Order is extremely important because this
 
 `<p>My cat is <strong>very grumpy.</p></strong>`
 
 Gives us
-<p>My cat is <strong>very grumpy.</p></strong>
+* <p>My cat is <strong>very grumpy.</p></strong>
 
 It might seem small but this is a huge difference in what you are trying to communicate.
 
