@@ -32,6 +32,7 @@ We can nest elements within each other.
 Take a look at this example
 
 `<p>My cat is <strong>very</strong> grumpy.</p>`
+
 Gives us
 
 * <p>My cat is <strong>very</strong> grumpy.</p>
