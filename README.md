@@ -1,8 +1,10 @@
 # My Reading Journal
+
 My reading journal for Code Fellows 102n65
 
 # Table of Contents
-* [About Me](about.md) 
+
+* [About Me](about.md)
 * [Growth Mindset](growthMindset.md)
 * [Reflection On GitHub Markdown](reflection.md)
 * [Terminal Cheat Sheet](terminalCheatSheet.md)
