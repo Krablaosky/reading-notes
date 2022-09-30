@@ -8,5 +8,6 @@ My reading journal for Code Fellows 102n65
 * [Terminal Cheat Sheet](terminalCheatSheet.md)
 * [Reflections on Text Editors](texteditor.md)
 * [Reflections on Git & GitHub](gitVsGithub.md)
+* [Wireframing & HTML](wireframing.md)
 
 Link to my [GitHub:](https://github.com/nickmullaney).
