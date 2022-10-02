@@ -13,5 +13,6 @@ My reading journal for Code Fellows 102n65
 * [Wireframing](wireframing.md)
 * [HTML](html.md)
 * [CSS](css.md)
+* [JavaScript](javascript.md)
 
 Link to my [GitHub:](https://github.com/nickmullaney).
