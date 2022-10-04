@@ -14,5 +14,6 @@ My reading journal for Code Fellows 102n65
 * [HTML](html.md)
 * [CSS](css.md)
 * [JavaScript](javascript.md)
+* [JavaScript Continued](javascript2.md)
 
 Link to my [GitHub:](https://github.com/nickmullaney).
