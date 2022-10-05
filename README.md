@@ -15,5 +15,6 @@ My reading journal for Code Fellows 102n65
 * [CSS](css.md)
 * [JavaScript](javascript.md)
 * [JavaScript Continued](javascript2.md)
+* [Expressions, Operators, & Loops](loops.md)
 
 Link to my [GitHub:](https://github.com/nickmullaney).
