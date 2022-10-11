@@ -1,20 +1,10 @@
 # My Reading Journal
 
-My reading journal for Code Fellows 102n65
+All the information from *CodeFellows* right here. Each link will take you to a comprehensive set of notes and guides to refer back to.
 
-# Table of Contents
+## Table of Contents
 
-* [About Me](about.md)
-* [Growth Mindset](growthMindset.md)
-* [Reflection On GitHub Markdown](reflection.md)
-* [Terminal Cheat Sheet](terminalCheatSheet.md)
-* [Reflections on Text Editors](texteditor.md)
-* [Reflections on Git & GitHub](gitVsGithub.md)
-* [Wireframing](wireframing.md)
-* [HTML](html.md)
-* [CSS](css.md)
-* [JavaScript](javascript.md)
-* [JavaScript Continued](javascript2.md)
-* [Expressions, Operators, & Loops](loops.md)
+* [Code 102 Reading Notes](102readingNotes.md)
+* [Code 201 Reading Notes](201readingNotes.md)
 
-Link to my [GitHub:](https://github.com/nickmullaney).
+Link to my **[GitHub](https://github.com/nickmullaney)**.
