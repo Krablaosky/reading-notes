@@ -16,7 +16,7 @@ Our Content is everything we want to display in that formatted style
 
 When you put it all together it's called an *Element*.
 
-Elements can have attributes that contain extra info about the content. Things like the class attribute allow you customize specific elemets with their own style sheets and custom information. We simply put a tag on it to ID it.
+Elements can have attributes that contain extra info about the content. Things like the class attribute allow you customize specific elements with their own style sheets and custom information. We simply put a tag on it to ID it.
 
 ### So what should an attribute contain?
 
