@@ -151,5 +151,3 @@ We could use it to create a button that runs a mathematical function after someo
  if we need to interact with it in some way then Javascript is usually what we are going to lean towards to make those functions work.
 
  Using all of these things together will help make one hell of a website and a fully interactive app that will wow people.
-
- 

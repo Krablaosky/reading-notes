@@ -140,6 +140,4 @@ myImage.onclick = () => {
 
 You can check out some examples of complete code [Here](https://github.com/mdn/beginner-html-site-scripted/blob/gh-pages/scripts/main.js)
 
-
-
 [Click Here for HTML & JS Continued](htmlctd201.md)
