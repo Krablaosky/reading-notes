@@ -37,7 +37,7 @@ The `html` tags contain all the content of the page and is the entire being.
 
 Meanwhile the `head` element is all of the information that isn't viewer facing and has a lot of hidden info for search terms and what the website does. Think about a google search and you find some weird websites that aren't related because they used a lot of keywords in their header.
 
-The `title` is simply for the title of the page and the `body` is what contains all of the infomration that makes the website look like the website we know.
+The `title` is simply for the title of the page and the `body` is what contains all of the information that makes the website look like the website we know.
 
 ## Article vs Section
 
@@ -46,16 +46,25 @@ An article en closes a block of related content that exists in it's own bubble, 
 ## Typical Elements In A Website
 
 `<header>`
+
 * Usually a big strip across the top with a big heading, logo, and perhaps a tagline. This usually stays the same from one webpage to another.
+  
 `<navigation bar>`
+
 * usually a lot of buttons or links to the next parts of the website
+
 `<main>`
+
 * Usually where most of the content lives
 * `<article> or <section> or < div>` with `div` being one of the most common
+
 Sidebar
+
 * peripheral info like quotes, adds, or sometimes specific sections for websites
 * `<aside>` which often lives in `<main>`
+
 `<footer>`
+
 * Strip across the bottom of the page that contains copyright info or contact info etc.
 
 ## Metadata
@@ -125,4 +134,22 @@ Once you have this done you can move on to whiteboarding or drawing out your pla
 
 ## Ok so why JavaScript for an HTML page
 
-We have a pretty looking webpage using `HTML` and `CSS`, so what do we really need JS for? We kinda covered it earlier but for all user interactions we need 
+We have a pretty looking webpage using `HTML` and `CSS`, so what do we really need JS for? We kinda covered it earlier but for all user interactions we need our JavaScript sheet. So how would we connect our JS sheet to our HTMl sheet? In the exact same way we handled our CSS link.
+
+```html
+ <link rel="stylesheet" href="style.css">
+    <script src="app.js"></script>
+```
+
+You can see how the `<Script>` tag is what we use to connect our JS file.
+
+What would we use all that scripting for?
+
+We could use it to create a button that runs a mathematical function after someone enters in their prompted data.
+ Or use it for an in browser web game where we need some controls to be reactive to player entries.
+  You can use it for getting a users name and then having their name displayed at the top of the webpage. The answer is that basically
+ if we need to interact with it in some way then Javascript is usually what we are going to lean towards to make those functions work.
+
+ Using all of these things together will help make one hell of a website and a fully interactive app that will wow people.
+
+ 

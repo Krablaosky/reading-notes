@@ -46,6 +46,24 @@ There are some restrictions on what variable names you can use in JS, specifical
 
 Variables can be changed later in time which is great. If I tell you now a `Squeedlyspooch`means laptop, you still might remember from earlier that it was a pen, but now it's a laptop and you need that for the next section.
 
+## Strings vs numbers
+
+when we get into how to write out different variables it's incredibly important to know how to do some simple things like write out numbers.
+
+If we try to write out the number 42 in a JS function, we just write the number as it is with no attachments or anything.
+
+`let number = 42` makes it so this variable number has a value of 42. We could manipulate that information to solve for some of these things.
+
+`number * 2` would give us `84`
+
+if we had it so that
+
+`let name = 'bob'` Then we have assigned the variable name to the string `bob`, and if we tried a similar thing.
+
+`name + name` we would get `bobbob`
+
+Strings will always have either `' '` or `" "` surrounding it and that is how we can identify them quickly.
+
 ## Conditionals
 
 we can use these conditional statements to execute a function if something meets our conditions or criteria. For instance, if a is true then run function until a isn't true
@@ -124,4 +142,4 @@ You can check out some examples of complete code [Here](https://github.com/mdn/b
 
 
 
-[Click Here for HTML Continued](htmlctd201.md)
+[Click Here for HTML & JS Continued](htmlctd201.md)

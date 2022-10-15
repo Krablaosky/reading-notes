@@ -7,7 +7,6 @@ Make sure to use proper tags to get the effect you want. This `<p>` tag build th
 
 ![grumpy-cat-small](https://user-images.githubusercontent.com/21025934/193368268-3ad69a2b-bf91-4b5a-86d1-cb10f3ad8361.png)
 
-
 Take a look at this image. The opening tag `<p>` is what helps establish what we are going to do. We put the name of the element we are using in angle brackets. This is us saying "I want it formatted this way"
 
 The closing tag`</p>` lets us know to end that formatting style
@@ -18,7 +17,7 @@ When you put it all together it's called an *Element*.
 
 Elements can have attributes that contain extra info about the content. Things like the class attribute allow you customize specific elements with their own style sheets and custom information. We simply put a tag on it to ID it.
 
-### So what should an attribute contain?
+## So what should an attribute contain?
 
 An attribute should always have the following:
 
@@ -35,20 +34,21 @@ Take a look at this example
 
 Gives us
 
-* <p>My cat is <strong>very</strong> grumpy.</p>
+* `<p>My cat is <strong>very</strong> grumpy.</p>`
 
 Order is extremely important because this
 
 `<p>My cat is <strong>very grumpy.</p></strong>`
 
 Gives us
-* <p>My cat is <strong>very grumpy.</p></strong>
+
+* `<p>My cat is <strong>very grumpy.</p></strong>`
 
 It might seem small but this is a huge difference in what you are trying to communicate.
 
 ### Empty Elements
 
-Some elements have no content and are called empty elements. Take the <img> element that we already have in our HTML page: `<img src="images/firefox-icon.png" alt="My test image" />`
+Some elements have no content and are called empty elements. Take the `<img>` element that we already have in our HTML page: `<img src="images/firefox-icon.png" alt="My test image" />`
 
 This contains two attributes, but there is no closing </img> tag and no inner content. This is because an image element doesn't wrap content to affect it. Its purpose is to embed an image in the HTML page in the place it appears.
 
@@ -69,15 +69,19 @@ Heading elements allow you to specify that certain parts of your content are hea
 Our 4 different heading levels and how they look.
 
 `<h1>My main title</h1>`
-# My main title
+
+## My main title
 
 `<h2>My top level heading</h2>`
-## My top level heading
+
+### My top level heading
 
 `<h3>My subheading</h3>`
+
 ### My subheading
 
 `<h4>My sub-subheading</h4>`
+
 #### My sub-subheading
 
 Notice how much smaller they get?
@@ -89,6 +93,8 @@ Unordered lists are for lists where the order of the items doesn't matter, such 
 Ordered lists are for lists where the order of the items does matter, such as a recipe. These are wrapped in an `<ol>` element.
 
 This is how our use of lists would look
+
+```html
 <p>At Mozilla, we're a global community of</p>
 
 <ul>
@@ -98,6 +104,7 @@ This is how our use of lists would look
 </ul>
 
 <p>working together…</p>
+```
 
 ### Links
 
@@ -105,14 +112,14 @@ Links are very important — they are what makes the web a web! To add a link, w
 Choose some text. We chose the text "Google".
 Wrap the text in an `<a>` element, as shown below:
 
-<a>Google</a>
+`<a>Google</a>`
 
 Give the `<a>` element an href attribute, as shown below:
 `<a href="">`Google`</a>`
 
 Then we fill in the value of this attribute with the web address that you want the link to:
 
-<a href="https://www.google.com/">Google</a>
+`<a href="https://www.google.com/">Google</a>`
 
 Key Note
 
