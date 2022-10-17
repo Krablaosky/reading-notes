@@ -9,3 +9,4 @@ All the information from *CodeFellows* right here. Each link will take you to a 
 * [Things I want to know more about](knowMore.md)
 
 Link to my **[GitHub](https://github.com/nickmullaney)**.
+
