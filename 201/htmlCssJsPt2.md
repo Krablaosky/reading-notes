@@ -11,7 +11,8 @@ As stated above Unordered Lists or `<ul>` are for unordered-list items and can b
 2. How do you change the `bullet style` of unordered list items?
 
 You can change the `bullet style` of an Unordered List to look like a cirle, disc, square and triangle. There are even options to add your own custom images and you can do this using the `type` attribute in your CSS Sheet. It might look like
-```
+
+```css
 li {
     list-style-type: circle;
 }
