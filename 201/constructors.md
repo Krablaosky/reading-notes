@@ -40,3 +40,9 @@ NOTE: This is a very common front end developer interview question
 A prototype in the culinary world would be like building a prep sheet that lets people know what they are building. When you add a recipe onto that prep sheet it's like giving a prototype because you are skipping the whole part of having to write out each and every part, because you simplified the whole process into a recipe that they can now use to create a dish.
 
 Inheritance is like when you get a bunch of kitchen equipment from the last owners. You don't always get a say in how the kitchen was built, but now you have to work around what you inherited to do the job. So the prep table in against the left wall, now you need to figure out where everything goes based on the fact that you inherited this workspace.
+
+## Things I want to know more about
+
+I want to know more about how `this` really works. Still getting a little murky on it. 
+
+Want to really dig into prototype function, it was a little confusing.
