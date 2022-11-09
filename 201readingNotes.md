@@ -10,4 +10,5 @@
 * [HTML & CSS Continued](201/htmlCssPt4.md)
 * [JS Objects and DOM](201/jsObjectsDom.md)
 * [Constructors in JS](201/constructors.md)
+* [CSS Layouts](201/cssLayout.md)
 * 
