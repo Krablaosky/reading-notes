@@ -12,4 +12,5 @@
 * [Constructors in JS](201/constructors.md)
 * [CSS Layouts](201/cssLayout.md)
 * [Building Forms](201/forms.md)
+* [Debugging in JS](201/debugging.md)
 * 
