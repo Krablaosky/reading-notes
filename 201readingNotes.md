@@ -14,4 +14,5 @@
 * [Building Forms](201/forms.md)
 * [Debugging in JS](201/debugging.md)
 * [Audio, Video & Images](201/audioVideoImages.md)
+* [Charts in JS](201/charts.md)
 * 
