@@ -15,4 +15,5 @@
 * [Debugging in JS](201/debugging.md)
 * [Audio, Video & Images](201/audioVideoImages.md)
 * [Charts in JS](201/charts.md)
+* [Local Storage in Websites](201/locatStorage.md)
 * 
