@@ -1,6 +1,5 @@
 # Introduction to React and Components
 
-
 ## Component-Based Architecture
 
 1. What is a “component”?
@@ -40,5 +39,3 @@ Props flow in three steps.First we have to define an attribute and then the valu
 [React Docs - Rendering elements](https://reactjs.org/docs/rendering-elements.html)
 
 [React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
-
-
