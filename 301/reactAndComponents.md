@@ -21,20 +21,24 @@ some of the advantages of using component based architectureI that the system's 
 
 Props is short for properties
 
-1. How are props used in React?
+2. How are props used in React?
 
 Props are often used for passing data from one component to another
 
-1. What is the flow of props?
+3. What is the flow of props?
 
 Props flow in three steps.First we have to define an attribute and then the value or data that is associated with. After that we pass it to the child components using the props keyword. finally we render the props data and allow it to be seen in the parent component. Props data can only be passed to components from parent to child And that data is immutable or read only
 
 ## Bookmark and Review
 
 [React Tutorial through ‘Passing Data Through Props'](https://reactjs.org/tutorial/tutorial.html)
+
 [React Docs - Hello world](https://reactjs.org/docs/hello-world.html)
+
 [React Docs - Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+
 [React Docs - Rendering elements](https://reactjs.org/docs/rendering-elements.html)
+
 [React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
 
 
