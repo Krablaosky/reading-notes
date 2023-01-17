@@ -5,4 +5,5 @@
 * [Intro to React and Components](301/reactAndComponents.md)
 * [Slate and Props](301/slateAndProps.md)
 * [Passing Functions as Props](301/functionProps.md)
+* [React and Forms](301/reactForms.md)
 * 
