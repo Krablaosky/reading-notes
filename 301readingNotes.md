@@ -6,4 +6,5 @@
 * [Slate and Props](301/slateAndProps.md)
 * [Passing Functions as Props](301/functionProps.md)
 * [React and Forms](301/reactForms.md)
+* [Thinking in React and putting it all together](301/thinkReact.md)
 * 
