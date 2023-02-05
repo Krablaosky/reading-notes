@@ -14,7 +14,7 @@ a pure function also referred to as deterministic,returns the same result if giv
 
 The benefits of a pure function are that the past parameters will always be consistent as opposed to having continually changing results, these pure functions are also easier to test so we don't need to mock anything up We can reliably expect the same results
 
-1. What is immutability?
+4. What is immutability?
 
 immutability is dated that is unable to be changed after it is created.it can't be edited in any way shape or form and you just have to make a new one if you need new data
 
