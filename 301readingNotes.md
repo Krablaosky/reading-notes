@@ -15,4 +15,5 @@
 * [MongoDB & Mongoose](301/mongodb.md)
 * [CRUD](301/CRUD.md)
 * [More CRUD](301/moreCRUD.md)
+* [Diversity & Equity in the tech industry](301/dei.md)
 * 
