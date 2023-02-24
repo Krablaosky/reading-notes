@@ -16,4 +16,5 @@
 * [CRUD](301/CRUD.md)
 * [More CRUD](301/moreCRUD.md)
 * [Diversity & Equity in the tech industry](301/dei.md)
+* [Authentication](301/auth0.md)
 * 
