@@ -10,5 +10,5 @@ All the information from *CodeFellows* right here. Each link will take you to a 
 * [Code 401 - Advanced Software Development](401readingNotes.md)
 * [Things I want to know more about](knowMore.md)
 
-Link to my **[GitHub](https://github.com/nickmullaney)**.
+Link to my **[GitHub](https://github.com/nickmullaney)** and if you want to learn more about me you can do so **[Here](./102/about.md)**.
 
