@@ -8,6 +8,10 @@ Software developers should set themselves challenges that meet these criteria to
 
 It is important for developers to learn new technical skills by applying existing skills to real-world problems. It's important to encourage developers to step out of their comfort zones and set themselves small, finishable challenges to learn something new.
 
+## Growth Mindset
+
+Having a growth mindset means believing in the potential for development through effort and learning. It entails viewing challenges as opportunities for growth and learning, rather than as threats to one's abilities. Redefining success involves shifting the focus from external validation to internal fulfillment by setting meaningful and challenging personal goals and focusing on personal growth. Combining a growth mindset and redefining success can help cultivate resilience, perseverance, and self-awareness. By embracing challenges, learning from mistakes, and defining success on their own terms, individuals can foster a sense of purpose and fulfillment in their lives.
+
 ## Emotional Intelligence
 
 I re-took the Emotional intelligence assessment and came up with relatively close to 20s in all categories. a lot of this is because I spend a lot of time reflecting on what I'm doing and how I'm interacting with different people. I also have been doing a lot of emotional healing to be more aware of my own feelings at given times,I've always had an ability for empathy and relationship management So I'm not surprised that those were some of my highest areas. The big one for me to work on is self management, and that's someone who has ADHD, that is always been a challenge for me and will continue to be a challenge for me. i've continually come up with new ways to help myself in the process and ways to work with it, but I'm not always successful.
