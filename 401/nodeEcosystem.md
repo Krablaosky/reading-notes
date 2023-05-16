@@ -2,7 +2,6 @@
 
 1. How would you describe Node to a non-technical friend?
 
-
 Node.js, commonly referred to as Node, is a powerful tool for building server-side applications with JavaScript. In simple terms, it's a software platform that allows developers to use JavaScript to write server-side code, which means that they can use the same language for both the front-end and back-end of an application. This makes development faster, more efficient, and easier to manage.
 
 Think of Node like a virtual environment where developers can create and execute JavaScript programs outside of a web browser. It comes with a set of pre-built modules that make it easy to work with things like file systems, network connections, and databases. Node is particularly useful for building scalable and high-performance applications that can handle a large number of simultaneous connections.
