@@ -9,3 +9,5 @@
 * [Data Structures and Algorithms](401/datastructures.md)
 * [Node Ecosystem](401/nodeEcosystem.md)
 * [Readings: Express, NPM, TDD, CI/CD](401/cicd.md)
+* [Express Rest API](./401/expressRest.md)
+* 
