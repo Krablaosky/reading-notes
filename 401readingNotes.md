@@ -11,4 +11,5 @@
 * [Readings: Express, NPM, TDD, CI/CD](401/cicd.md)
 * [Express Rest API](./401/expressRest.md)
 * [Data Modeling](./401/dataModeling.md)
+* [Linked List Implementation](./401/linkedLists.md)
 * 
