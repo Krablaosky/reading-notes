@@ -12,4 +12,5 @@
 * [Express Rest API](./401/expressRest.md)
 * [Data Modeling](./401/dataModeling.md)
 * [Linked List Implementation](./401/linkedLists.md)
+* [Authentication](./401/auth.md)
 * 
