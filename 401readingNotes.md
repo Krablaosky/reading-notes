@@ -13,4 +13,8 @@
 * [Data Modeling](./401/dataModeling.md)
 * [Linked List Implementation](./401/linkedLists.md)
 * [Authentication](./401/auth.md)
+* [Bearer Authorization](./401/bearerAuthorization.md)
+* [Access Control (ACL)](./401/accessControl.md)
+* [Authorization/Authentication Project](./401/authentication.md)
+* [Stacks and Queues](./401/stacksQueues.md)
 * 
