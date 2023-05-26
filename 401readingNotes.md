@@ -17,4 +17,8 @@
 * [Access Control (ACL)](./401/accessControl.md)
 * [Authorization/Authentication Project](./401/authentication.md)
 * [Stacks and Queues](./401/stacksQueues.md)
-* 
+* [Event Driven Applications](./401/eventDrivenApplications.md)
+* [Socket.io](./401/socketIo.md)
+* [Message Queues](./401/messageQueues.md)
+* [Event Driven Architecture](./401/eventArchitecture.md)
+* [Trees](./401/trees.md)
