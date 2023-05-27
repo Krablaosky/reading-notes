@@ -18,10 +18,10 @@
    * Rooms can be useful in scenarios where you want to broadcast messages or events to a specific group of connected clients rather than broadcasting to all clients. For example, in a chat application, you might have separate rooms for different chat channels or private conversations.
 
 2. How do you join a room?
-   * To join a room, a client can use the socket.join(roomName) method. By providing the desired room name, the client can become a member of that specific room.
+   * To join a room, a client can use the `socket.join(roomName)` method. By providing the desired room name, the client can become a member of that specific room.
 
 3. how do you leave a room?
-   * To leave a room, the client can use the socket.leave(roomName) method. This will remove the client from the specified room, and they will no longer receive events specifically targeted to that room.
+   * To leave a room, the client can use the `socket.leave(roomName)` method. This will remove the client from the specified room, and they will no longer receive events specifically targeted to that room.
 
 ### [Namespaces](https://socket.io/docs/v4/namespaces/)
 
