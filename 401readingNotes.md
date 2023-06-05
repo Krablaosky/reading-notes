@@ -22,3 +22,8 @@
 * [Message Queues](./401/messageQueues.md)
 * [Event Driven Architecture](./401/eventArchitecture.md)
 * [Trees](./401/trees.md)
+* [AWS: Cloud Servers](./401/awsServer.md)
+* [AWS: S3 and Lambda](./401/s3Lambda.md)
+* [AWS: API, Dynamo and Lambda](./401/apiDynamoLambda.md)
+* [AWS: Events](./401/events.md)
+* 
