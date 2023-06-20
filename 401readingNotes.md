@@ -26,4 +26,8 @@
 * [AWS: S3 and Lambda](./401/s3Lambda.md)
 * [AWS: API, Dynamo and Lambda](./401/apiDynamoLambda.md)
 * [AWS: Events](./401/events.md)
+* [Component Based UI](./401//componentUi.md)
+* [useState() Hook](./401/useStateHook.md)
+* [Component Lifecycle / useEffect Hook](./401/componentLifecycle.md)
+* [Advanced State with Reducers](./401/advancedStateReducers.md)
 * 
