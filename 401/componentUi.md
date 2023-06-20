@@ -62,4 +62,5 @@ Keep these pages handy - they answer questions that show up regularly for this l
 Cheat sheets
 
 [sass cheatsheet](https://devhints.io/sass)
+
 [react cheatsheet](https://devhints.io/react)
