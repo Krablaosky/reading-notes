@@ -30,4 +30,8 @@
 * [useState() Hook](./401/useStateHook.md)
 * [Component Lifecycle / useEffect Hook](./401/componentLifecycle.md)
 * [Advanced State with Reducers](./401/advancedStateReducers.md)
+* [Hash Tables](./401/hashTables.md)
+* [Context API](./401/contextApi.md)
+* [Context API Behaviors](./401/contextApiBehaviors.md)
+* [Login and Auth](./401/loginAuth.md)
 * 
