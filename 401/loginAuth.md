@@ -55,11 +55,5 @@
  environments.
    
 3. Which library would you prefer? Why?
-
-   The choice between react-cookie and react-cookies depends on specific project requirements and personal preference. Both libraries provide similar cookie management capabilities with slight differences in their API design and usage patterns.
-   
-   If you prefer a more straightforward API and usage, react-cookie might be a good choice. It offers a simple and intuitive API for managing cookies in a React application. Additionally, if you are already using other libraries from the React ecosystem, react-cookie's integration may align well with your existing stack.
-   
-   On the other hand, if you prefer a lightweight component-based approach, react-cookies could be a suitable option. It provides a component-like API for cookie management, which can be appealing if you prefer a more declarative style of programming. Additionally, if you prioritize TypeScript support, react-cookies has explicit TypeScript definitions, ensuring type safety.
-   
-   Ultimately, the choice between the two libraries depends on your specific project needs, API preferences, and existing technology stack.
+  
+  I prefer to use the react-cookies library because at this time I really appreciate straightforward API usage and integration. Once I feel more comfortable with API integrations and componetization I would probably lean towards the react-cookies components to be able to modularize and keep it efficient.
