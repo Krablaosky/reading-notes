@@ -35,3 +35,6 @@
 * [Context API Behaviors](./401/contextApiBehaviors.md)
 * [Login and Auth](./401/loginAuth.md)
 * [API Integration](./401/apiIntegration.md)
+* [Implementation: Graphs](./401/graphs.md)
+* [Application State with Redux](./401/stateRedux.md)
+* [Redux - Combined Reducers](./401/combinedReducer.md)
