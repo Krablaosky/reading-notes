@@ -77,3 +77,5 @@ Sorting the contents of a file: You can sort the contents of a file using the so
 Counting the number of lines, words, and characters in a file: You can count the number of lines, words, and characters in a file using the wc command. For example, wc myfile.txt will display the number of lines, words, and characters in myfile.txt.
 
 ## [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+
+## [Back](../401readingNotes.md)

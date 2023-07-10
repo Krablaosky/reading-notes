@@ -47,3 +47,5 @@ One-to-many relationship: Think of a company and its employees. In a one-to-many
 Many-to-many relationship: Consider students and courses. In a many-to-many relationship, multiple students can enroll in multiple courses, and each course can have multiple students. It's like a flexible association where many entities on one side can be related to many entities on the other side.
 
 These relationships help recruiters understand the nature of data associations and how different entities are connected in a database.
+
+## [Back](../401readingNotes.md)

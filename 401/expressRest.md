@@ -46,3 +46,5 @@
 What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-03/)?
 
 My learning goals are to understand how to break roots up into much more efficient and logical ways.I'm really hoping to reinforce my understanding of CRUD and REST operations, As well as get better at building efficient routes.I still feel like I could use more practice with building more routes And how to use the SQL database with Postgres. I still haven't been able to get that configured. I'm excited to understand how to use SQL databases better with our javascript applications and I am excited to see where we can go with this.
+
+## [Back](../401readingNotes.md)

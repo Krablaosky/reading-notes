@@ -29,3 +29,5 @@ The combination of useReducer and useContext simplifies state management in Reac
 - Accessing and updating state: Inside child components, useContext is used to access the state and dispatch function from the context. Components can directly modify the state using the dispatch function, simplifying state management and reducing code complexity.
 
 By understanding the concepts of useReducer and useContext, you gain a solid foundation to effectively manage state in React applications. These hooks provide a scalable and efficient approach to handle complex state transitions and make state values accessible to the components that need them.
+
+## [Back](../401readingNotes.md)

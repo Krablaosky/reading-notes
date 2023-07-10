@@ -57,3 +57,5 @@
 3. Which library would you prefer? Why?
   
   I prefer to use the react-cookies library because at this time I really appreciate straightforward API usage and integration. Once I feel more comfortable with API integrations and componetization I would probably lean towards the react-cookies components to be able to modularize and keep it efficient.
+
+  ## [Back](../401readingNotes.md)

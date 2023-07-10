@@ -74,3 +74,5 @@
 3. Bookmark this link also and consider OWASP fundamentals any time you interact with authentication. Applications developed with security in mind from inception have fewer vulnerabilities throughout their lifecycle.
   
   OWASP (Open Web Application Security Project) provides valuable resources and best practices for secure application development. By following OWASP fundamentals, you can reduce vulnerabilities and enhance the security of your application throughout its lifecycle. It's crucial to consider security from the inception of the development process to ensure a robust and secure authentication mechanism.
+
+  ## [Back](../401readingNotes.md)

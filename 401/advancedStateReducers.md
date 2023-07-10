@@ -25,3 +25,5 @@ Keep these pages handy - they answer questions that show up regularly for this l
 [Keeping Components Pure](https://react.dev/learn/keeping-components-pure)
 
 [Queueing a Series of State Updates](https://react.dev/learn/queueing-a-series-of-state-updates)
+
+## [Back](../401readingNotes.md)

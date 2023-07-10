@@ -49,3 +49,5 @@ The key points to understand about hash tables are:
 5. Counting and frequency analysis: Hash tables can be used to count occurrences and perform frequency analysis on a set of data. For example, they can be used to determine the frequency of words in a document or track the occurrence of elements in a dataset.
 
 These are just a few examples of the many applications and advantages of hash tables. They are a versatile and powerful data structure used extensively in various domains.
+
+## [Back](../401readingNotes.md)

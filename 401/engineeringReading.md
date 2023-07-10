@@ -17,3 +17,5 @@ As someone who has worked in the food service and customer service industry for 
 2. What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
 
 To overcome being stuck on a tough piece of code, logic, or feature, I have developed a three-step approach. First, I step away from the problem and take a short break to clear my mind. Then, I seek help and collaborate with a colleague to brainstorm new ideas and perspectives. Finally, I tackle a smaller, more manageable challenge to rebuild my confidence before returning to the original problem with renewed energy.
+
+## [Back](../401readingNotes.md)

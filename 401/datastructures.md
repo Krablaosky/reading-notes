@@ -153,3 +153,5 @@ Big O notation is a way of analyzing the time complexity and space complexity of
 2. How can we ensure that we’ll avoid an infinite recursive call stack?
 
 * To avoid an infinite recursive call stack, it is important to ensure that recursive functions have a base case that will terminate the recursion. The base case defines the simplest possible case that can be solved without recursion. When the base case is reached, the recursion stops and the function returns a result. For example, in a recursive function that computes the factorial of a number, the base case would be when the number is 1, as the factorial of 1 is 1. When the recursive function encounters this base case, it returns the value 1, and the recursion stops. Additionally, it is important to ensure that the recursion depth is limited to a reasonable number. This can be achieved by carefully designing the recursive algorithm to ensure that the maximum recursion depth is proportional to the size of the input data.
+
+## [Back](../401readingNotes.md)

@@ -78,3 +78,5 @@
    In RBAC, the system administrator assigns each user a specific role based on their responsibilities and permissions. This determines what they can and cannot do within the application. The roles act as access levels that control the user's actions and limit their access to certain features or data.
 
    RBAC provides a structured and organized approach to managing access and maintaining security within an application. It ensures that users can only perform actions and access information that is appropriate for their role or position, thereby safeguarding sensitive data and preventing unauthorized actions.
+
+   ## [Back](../401readingNotes.md)

@@ -50,3 +50,6 @@
 
 2. What are some key features of Dynamoose?
    * Some key features of Dynamoose include automatic schema creation, model validation, support for middleware hooks, type casting,
+
+
+## [Back](../401readingNotes.md)

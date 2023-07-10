@@ -50,3 +50,5 @@
    * Scalability and Reliability: CDNs can handle high traffic loads and distribute the load across multiple servers, ensuring websites can handle increased user demand.
    * DDoS Mitigation: CDNs often provide protection against Distributed Denial of Service (DDoS) attacks, absorbing and filtering malicious traffic before it reaches the website's origin servers.
    * Cost Savings: CDNs can offload bandwidth usage
+
+## [Back](../401readingNotes.md)

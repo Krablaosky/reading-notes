@@ -78,3 +78,5 @@ Access: O(n) - Must traverse the list from the beginning to access an element.
 Search: O(n) - In the worst case, all nodes need to be examined.
 Insertion: O(1) - If performed at the beginning or with a reference to the insertion point.
 Deletion: O(1) - If performed at the beginning or with a reference to the deletion point.
+
+## [Back](../401readingNotes.md)

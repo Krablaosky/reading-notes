@@ -43,3 +43,5 @@ Keep these pages handy - they answer questions that show up regularly for this l
 [State as Snapshot](https://react.dev/learn/state-as-a-snapshot)
 
 [useState hook](https://react.dev/reference/react/useState)
+
+## [Back](../401readingNotes.md)

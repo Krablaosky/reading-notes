@@ -19,3 +19,5 @@ I re-took the Emotional intelligence assessment and came up with relatively clos
 ## Assessing Bias
 
 When I took this I learned that my what is bias and bias and identity are my highest areas where I feel the most comfortable and confident in, predominantly understanding and respecting other people's identities and life challenges that they may have gone through.The area that is the weakest for Maine is the four ways to act. A lotHas to do with what I'm doing in terms of caring for myself, learning how to seek out new opportunities, and especially giving back to the community. those are all things that I really feel I can work on continually, I really place value on these but have a hard time committing and engaging with it consistently. I think that this turned out as I expected, I've been doing a lot of work to be aware and mindful of courage and how to mitigate bias, and I'm planning to find resources to aid with that so that I can continually grow.
+
+## [Back](../401readingNotes.md)

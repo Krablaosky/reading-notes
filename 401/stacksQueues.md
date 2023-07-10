@@ -31,8 +31,4 @@ Queue Example Walkthrough:
   
   Imagine a queue of people waiting in line for a movie theater. The first person to arrive is at the front of the queue, and the last person to arrive is at the rear. When the theater opens, the person at the front of the queue enters first (FIFO principle). If you want to remove a person from the queue, you will always remove the one at the front. So, the first dequeue operation will give you the person at the front, the second dequeue will give you the next person, and so on.
 
-
-
-
-
-
+## [Back](../401readingNotes.md)

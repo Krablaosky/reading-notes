@@ -100,3 +100,5 @@ Continuous Delivery focuses on automating the process of preparing software for 
 
 
 GitHub is a platform that helps developers store and manage their code. It supports collaboration and version control, allowing multiple developers to work on the same project simultaneously. With automated tools, it enables continuous integration, testing, and deployment. GitHub also provides features for issue tracking and project management. It promotes transparency, collaboration, and automation in the software development process.
+
+## [Back](../401readingNotes.md)

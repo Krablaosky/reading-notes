@@ -43,3 +43,6 @@
 3. **What is a popular convention when naming reducers?**
 
    A popular convention when naming reducers is to use the domain or slice of the state they manage as part of their names. For example, if a reducer manages the state related to user authentication, it could be named `authReducer`. This convention helps to clearly indicate the responsibility and scope of each reducer in the application.
+
+
+   ## [Back](../401readingNotes.md)

@@ -60,3 +60,5 @@ Videos
   * Header: Describes the algorithm and token type.
   * Payload: Contains claims or statements about the user or entity.
   * Signature: Created using the encoded header, encoded payload, and a secret key. It verifies the token's authenticity and integrity.
+
+## [Back](../401readingNotes.md)

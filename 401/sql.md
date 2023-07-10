@@ -92,3 +92,5 @@ Example: DELETE FROM customers WHERE name = 'John Smith';
 16. ![SQL: 16](img/SQL%2016.png)
 17. ![SQL: 17](img/SQL%2017.png)
 18. ![SQL: 18](img/SQL%2018.png)
+
+## [Back](../401readingNotes.md)
